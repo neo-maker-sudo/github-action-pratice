@@ -24,5 +24,5 @@ jobs:
       env:
         SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
         SLACK_COLOR: '#3278BD'
-        SLACK_CHANNEL: random
+        SLACK_CHANNEL: 随机
         SLACK_USERNAME: GITHUB_BOT
